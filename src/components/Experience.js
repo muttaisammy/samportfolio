@@ -12,10 +12,12 @@ export default function Experience() {
             </div>
             <div className="title">Full Stack Developer</div>
             <ul className="description">
-              <li>.. </li>
-              <li>.s.</li>
-              <li className="introduction">..  <a style={{fontWeight:500}} className="intro-p job-pls" href="https://drive.google.com/drive/folders/1x9a5LKxC3W6eP51qlgoAgXxPELwr1L5n?usp=sharing" target="_blank" rel="noopener noreferrer">detail of all the events here</a></li>
-            </ul>
+              <li>Developed responsive scalable web applications</li>
+              <li>Integrated third-party API </li>
+              <li>Optimized MySQL querries to reduce latency</li>
+              <li>Automated end-to-end testing</li>
+              <li>Docker deployment and maintenace</li>
+              </ul>
           </div>
           <div className="exp-item">
             <div className="job">
@@ -24,13 +26,13 @@ export default function Experience() {
             </div>
             <div className="title">Software Developer</div>
             <ul className="description">
-              <li>Developed software applications using Angular JS &amp; React</li>                  
-              <li>Deployed, and integrated the application using MySQL,
-                  Implemented functional enhancements</li>
-              <li>Worked on a full life cycle conversion of an Angular management application into 
-                  React JS. Used GIT for version controls and updates</li>
-              <li>Enabled communication with backend interfaces for data updates.
-                  Documentations and code signoff</li>
+              <li>Developed software application POC using Angular JS &amp; MySQL</li>                  
+              <li>Developed SPOT, an application that hosted other mini applications
+                that were used routinely </li>
+              <li>Worked on a full life cycle conversion, Angular healthcare management application into 
+                  React JS SPA architecture. Used GIT for version controls and updates</li>
+              <li>Developed an ML model for calculating probability on patient appointment defaulting </li> 
+             <li>Day to day maintenance of data communication (HMIS) channels between facilities and national data warehouse </li>
             </ul>
           </div>
           <div className="exp-item">
@@ -40,20 +42,23 @@ export default function Experience() {
             </div>
             <div className="title">Software Developer</div>
             <ul className="description">
-              <li>.Software applications development and integration</li>
-              <li>Designed, coded and fully tested an Android mobile front-end applications </li>
+              <li>Maintained systems that allowed for real-time integration and processing of health data from various sources.</li>
+              <li>Applications included KenyaEMR, IQCare & Ipad</li>
+              <li>Worked alongside clinicians, nurses, administrators, to ensure their software healthcare needs were met </li>
+              <li>Designed, coded and fully tested Android front-end applications </li>
             </ul>
           </div>
           <div className="exp-item">
             <div className="job">
-              <a className="company" href="https://www.linkedin.com/company/developercirclesfromfacebook" target="_blank" rel="noopener noreferrer">BlackBaud Software Systemsh</a>
+              <a className="company" href="https://www.linkedin.com/company/developercirclesfromfacebook" target="_blank" rel="noopener noreferrer">BlackBaud Software Systems</a>
               <div className="duration">July 2010 &mdash; Dec 2014</div>
             </div>
             <div className="title">Software Developer</div>
             <ul className="description">
-              <li>Client requirements analysis, Software applications development and integration</li>
-
-              <li>..</li>
+              <li>Client requirements analysis, Software applications design, development and integration</li>
+              <li>Developed & customized applications that managed donor relationships, tracked donations, and generated reports</li>
+            <li> Blackbaud application that used data analytics to track donor behaviour & optimize fundraising strategies </li>
+            <li>Integrated accounting applications for grants and donations</li>
             </ul>
           </div>
           <div className="exp-item">
