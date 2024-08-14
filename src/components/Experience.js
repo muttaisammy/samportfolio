@@ -24,12 +24,11 @@ export default function Experience() {
             </div>
             <div className="title">Software Developer</div>
             <ul className="description">
-              <li>Developed software applications using Angular. JS &amp; React
-                  Designed, coded and fully tested an Android mobile front-end applications </li>
-              <li>Deployed, and integrated the application using MySQL, SQLite and mongo DB.
+              <li>Developed software applications using Angular JS &amp; React</li>                  
+              <li>Deployed, and integrated the application using MySQL,
                   Implemented functional enhancements</li>
-              <li>Worked on a full life cycle conversion of an Angular management application into an
-                  android mobile application. Used GIT for version controls and updates</li>
+              <li>Worked on a full life cycle conversion of an Angular management application into 
+                  React JS. Used GIT for version controls and updates</li>
               <li>Enabled communication with backend interfaces for data updates.
                   Documentations and code signoff</li>
             </ul>
@@ -42,7 +41,7 @@ export default function Experience() {
             <div className="title">Software Developer</div>
             <ul className="description">
               <li>.Software applications development and integration</li>
-              <li>..</li>
+              <li>Designed, coded and fully tested an Android mobile front-end applications </li>
             </ul>
           </div>
           <div className="exp-item">
@@ -64,9 +63,9 @@ export default function Experience() {
             </div>
             <div className="title">Test Engineer</div>
             <ul className="description">
-              <li>Developed test scenarios, test cases and test scripts
+              <li>Developed test scenarios, test cases and test scripts.
                   Performed functional, GUI and regression testing for version compatibility</li>
-              <li>Verification and database testing of legacy application conversions
+              <li>Verification and database testing of legacy application conversions.
                   Planned and performed User Acceptance testing</li>
               <li>Facilitated field training for new software users</li>
             </ul>
