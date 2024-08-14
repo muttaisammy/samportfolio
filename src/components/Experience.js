@@ -24,8 +24,14 @@ export default function Experience() {
             </div>
             <div className="title">Software Developer</div>
             <ul className="description">
-              <li>..</li>
-              <li>..</li>
+              <li>Developed software applications using Angular. JS &amp; React
+                  Designed, coded and fully tested an Android mobile front-end applications </li>
+              <li>Deployed, and integrated the application using MySQL, SQLite and mongo DB.
+                  Implemented functional enhancements</li>
+              <li>Worked on a full life cycle conversion of an Angular management application into an
+                  android mobile application. Used GIT for version controls and updates</li>
+              <li>Enabled communication with backend interfaces for data updates.
+                  Documentations and code signoff</li>
             </ul>
           </div>
           <div className="exp-item">
@@ -35,7 +41,7 @@ export default function Experience() {
             </div>
             <div className="title">Software Developer</div>
             <ul className="description">
-              <li>..</li>
+              <li>.Software applications development and integration</li>
               <li>..</li>
             </ul>
           </div>
@@ -46,7 +52,8 @@ export default function Experience() {
             </div>
             <div className="title">Software Developer</div>
             <ul className="description">
-              <li>..</li>
+              <li>Client requirements analysis, Software applications development and integration</li>
+
               <li>..</li>
             </ul>
           </div>
@@ -57,8 +64,11 @@ export default function Experience() {
             </div>
             <div className="title">Test Engineer</div>
             <ul className="description">
-              <li>..</li>
-              <li>..</li>
+              <li>Developed test scenarios, test cases and test scripts
+                  Performed functional, GUI and regression testing for version compatibility</li>
+              <li>Verification and database testing of legacy application conversions
+                  Planned and performed User Acceptance testing</li>
+              <li>Facilitated field training for new software users</li>
             </ul>
           </div>
           <div className="exp-item">
@@ -68,8 +78,10 @@ export default function Experience() {
             </div>
             <div className="title">Automation Test Engineer</div>
             <ul className="description">
-              <li>..</li>
-              <li>..</li>
+              <li>Planned development and testing on provisioning & billing software applications </li>
+              <li>Planned and implemented testing on Customer Relationship Management Modules</li>
+              <li>Testing using Mercury's automation tools, Load Runner & WinRunner</li>
+              <li>Reports testing of company wide applications developed using crystal reports</li>
             </ul>
           </div>
         </div>
