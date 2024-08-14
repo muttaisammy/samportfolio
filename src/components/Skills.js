@@ -20,7 +20,7 @@ export default function Skills() {
                   </div>
                   <div className="skill-category">
                     <strong>Cyber Security: &nbsp;</strong>
-                    <span>Penetration, Kali Linux VPN testing, API Testing</span>
+                    <span>Penetration Testing, Kali Linux VPN testing, API Testing</span>
                   </div>
                   <div className="skill-category">
                     <strong>Software Testing: &nbsp;</strong>
