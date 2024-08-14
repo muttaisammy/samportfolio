@@ -13,7 +13,7 @@ function Left(){
                 <div className="social-links">
                   <a href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter"></i></a>
                   <a href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a>
-                  <a href="https://github.com/KenstateAllied" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
+                  <a href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
                   <a href="https://kenstates.netlify.app"  target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a>
                 </div>
               </div>

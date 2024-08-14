@@ -17,7 +17,7 @@ function Right() {
               <Experience/>
               <Projects/>
               <Workshops/>
-              <a className="resume" href="https://www.linkedin.com/in/nandkk05/" target="_blank" rel="noopener noreferrer"><div className="resume-link">Contact me on linkedin</div></a>
+              <a className="resume" href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer"><div className="resume-link">Contact me on linkedin</div></a>
             </div>
           </div>
     )
