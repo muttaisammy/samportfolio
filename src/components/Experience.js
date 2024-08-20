@@ -13,31 +13,32 @@ export default function Experience() {
             <div className="title">Full Stack Developer</div>
             <ul className="description">
               <li>Developed responsive scalable web applications</li>
-              <li>Integrated third-party API </li>
+              <li>Integrated third-party APIs </li>
               <li>Optimized MySQL querries to reduce latency</li>
               <li>Automated end-to-end testing</li>
-              <li>Docker deployment and maintenace</li>
+              <li>Docker deployment and software maintenace</li>
               </ul>
           </div>
           <div className="exp-item">
             <div className="job">
-              <a className="company" href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer">Ampath Healthcare</a>
+              <a className="company" href="https://spot.ampath.or.ke/p" target="_blank" rel="noopener noreferrer">Ampath Healthcare</a>
               <div className="duration">Jan 2020 &mdash; July 2024</div>
             </div>
             <div className="title">Software Developer</div>
             <ul className="description">
               <li>Developed software application POC using Angular JS &amp; MySQL</li>                  
-              <li>Developed SPOT, an application that hosted other mini applications
-                that were used routinely </li>
+              <li>Part of team that developed SPOT, an application that hosted other mini applications
+                that were used routinely by the organization </li>
               <li>Worked on a full life cycle conversion, Angular healthcare management application into 
                   React JS SPA architecture. Used GIT for version controls and updates</li>
-              <li>Developed an ML model for calculating probability on patient appointment defaulting </li> 
+                  Used Jira for Agile process, test management and collaboration
+              <li>Developed an Machine Language model for calculating probability on patient appointment defaulting </li> 
              <li>Day to day maintenance of data communication (HMIS) channels between facilities and national data warehouse </li>
             </ul>
           </div>
           <div className="exp-item">
             <div className="job">
-              <a className="company" href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer">Kenya Medical Research Institute</a>
+              <a className="company" href="https://kemri-wellcome.org/" target="_blank" rel="noopener noreferrer">Kenya Medical Research Institute</a>
               <div className="duration">Jan 2015 &mdash; Dec 2019</div>
             </div>
             <div className="title">Software Developer</div>
