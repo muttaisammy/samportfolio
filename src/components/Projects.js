@@ -21,7 +21,11 @@ export default function Projects() {
                     <p className="project-desc">Python development for Patient default predictions</p>
                   </div>
                   <div className="project-item">
-                    <a className="project-title" href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer">Kenstate LLC</a>
+                    <a className="project-title" href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer">Company Website - kenstates.netlify.app; </a>
+                    <a className="project-title" href="https://autotrac.vercel.app" target="_blank" rel="noopener noreferrer">Ecommerce Fullstack - autotrac.vercel.app; </a>
+                    <a className="project-title" href="https://kentours.netlify.app" target="_blank" rel="noopener noreferrer">Hospitality Portal - kentours.netlify.app; </a>
+                    <a className="project-title" href="https://tego.co.ke" target="_blank" rel="noopener noreferrer">Telecom Portal - tego.co.ke; </a>
+                    <a className="project-title" href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer">AI Project</a>
                     <p className="project-desc">Developed various web and mobile applications for clients</p>
                   </div>
                   <div className="project-item">

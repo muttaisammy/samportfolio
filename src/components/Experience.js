@@ -21,7 +21,7 @@ export default function Experience() {
           </div>
           <div className="exp-item">
             <div className="job">
-              <a className="company" href="https://spot.ampath.or.ke/p" target="_blank" rel="noopener noreferrer">Ampath Healthcare</a>
+              <a className="company" href="https://spot.ampath.or.ke/" target="_blank" rel="noopener noreferrer">Ampath Healthcare</a>
               <div className="duration">Jan 2020 &mdash; July 2024</div>
             </div>
             <div className="title">Software Developer</div>
