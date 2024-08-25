@@ -8,7 +8,7 @@ export default function Skills() {
                 <div className="content">
                   <div className="skill-category">
                     <strong>Languages: &nbsp;</strong>
-                    <span>JavaScript, .NET Core, HTML5, CSS3, Python, MySQL, SQL Server, PostGress, MongoDB, Oracle</span>
+                    <span>JavaScript, .NET Core, HTML5, CSS3, Python, PHP, MySQL, SQL Server, PostGress, MongoDB, Oracle</span>
                   </div>
                   <div className="skill-category">
                     <strong>Libraries &amp; Frameworks: &nbsp;</strong>
@@ -16,11 +16,11 @@ export default function Skills() {
                   </div>
                   <div className="skill-category">
                     <strong>Tools: &nbsp;</strong>
-                    <span>Git &amp; GitHub, MacOS, Linux, Windows, PHP, Android, IOS, Postman, Figma, REST APIs</span>
+                    <span>Git &amp; GitHub, MacOS, Linux, Windows, Android, IOS, Postman, Figma, REST APIs, Kali Linux</span>
                   </div>
                   <div className="skill-category">
                     <strong>Cyber Security: &nbsp;</strong>
-                    <span>Penetration Testing, Kali Linux VPN testing, API Testing</span>
+                    <span>Penetration Testing, VPN testing, API Testing</span>
                   </div>
                   <div className="skill-category">
                     <strong>Software Testing: &nbsp;</strong>

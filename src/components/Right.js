@@ -5,7 +5,7 @@ import Education from "./Education";
 import Experience from "./Experience";
 import Projects from "./Projects";
 import Workshops from "./Workshops";
-
+import Certifications from "./Certifications";
 
 function Right() {
     return(
@@ -17,7 +17,8 @@ function Right() {
               <Experience/>
               <Projects/>
               <Workshops/>
-              <a className="resume" href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer"><div className="resume-link">Contact me on linkedin</div></a>
+              <Certifications/>
+              <a className="resume" href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer"><div className="resume-link">Contact me on Contacts above</div></a>
             </div>
           </div>
     )
