@@ -25,7 +25,7 @@ export default function Projects() {
                     <a className="project-title" href="https://realestate.kenstate.co.ke" target="_blank" rel="noopener noreferrer">Ecommerce Fullstack - realestate.kenstate.co.ke; </a>
                     <a className="project-title" href="https://tego.co.ke" target="_blank" rel="noopener noreferrer">Telecom Portal - tego.co.ke; </a>
                     <a className="project-title" href="https://remote.kenstate.co.ke" target="_blank" rel="noopener noreferrer">Ecommerce Fullstack - remote.kenstate.co.ke; </a>
-                    <a className="project-title" href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer">Company Website - kenstates.netlify.app; </a>
+                    <a className="project-title" href="https://apps..co.ke" target="_blank" rel="noopener noreferrer">Company Website - apps.kenstate.co.ke; </a>
                     <a className="project-title" href="https://liquid.tech/" target="_blank" rel="noopener noreferrer">Fullstack Billing application- https://liquid.tech/; </a>
 
                     <a className="project-title" href="https://kentours.netlify.app" target="_blank" rel="noopener noreferrer">Hospitality Portal - kentours.netlify.app; </a>

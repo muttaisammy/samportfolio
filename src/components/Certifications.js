@@ -34,12 +34,12 @@ export default function Certifications() {
             </div>
             <div className="exp-item">
             <div className="job">
-              <a className="company" href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer">Certified Ethical Hacker (CEH)</a>
+              <a className="company" href="https://apps.kenstate.co.ke" target="_blank" rel="noopener noreferrer">Certified Ethical Hacker (CEH)</a>
               <div className="duration">In Progress</div>
             </div>
             <div className="title">Certified Ethical Hacker (CEH)</div>
             <div className="slides">
-            <a  href="https://kenstates.netlify.app">Link</a>
+            <a  href="https://apps.kenstate.co.ke">Link</a>
             </div>
           </div>
         </div>

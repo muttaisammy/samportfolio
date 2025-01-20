@@ -18,7 +18,7 @@ function Right() {
               <Projects/>
               <Workshops/>
               <Certifications/>
-              <a className="resume" href="https://kenstates.netlify.app" target="_blank" rel="noopener noreferrer"><div className="resume-link">Contact me on Contacts above</div></a>
+              <a className="resume" href="https://apps.kenstate.co.ke" target="_blank" rel="noopener noreferrer"><div className="resume-link">Contact me on Contacts above</div></a>
             </div>
           </div>
     )
