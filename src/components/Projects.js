@@ -27,8 +27,11 @@ export default function Projects() {
                     <a className="project-title" href="https://remote.kenstate.co.ke" target="_blank" rel="noopener noreferrer">Ecommerce Fullstack - remote.kenstate.co.ke; </a>
                     <a className="project-title" href="https://apps..co.ke" target="_blank" rel="noopener noreferrer">Company Website - apps.kenstate.co.ke; </a>
                     <a className="project-title" href="https://liquid.tech/" target="_blank" rel="noopener noreferrer">Fullstack Billing application- https://liquid.tech/; </a>
-
-                    <a className="project-title" href="https://kentours.netlify.app" target="_blank" rel="noopener noreferrer">Hospitality Portal - kentours.netlify.app; </a>
+                    <a className="project-title" href="https://www.planty-kenya.com/" target="_blank" rel="noopener noreferrer">Fullstack Ecommerce application- https://www.planty-kenya.com/; </a>
+                    <a className="project-title" href="https://harrietsbotanicals.co.ke/" target="_blank" rel="noopener noreferrer">Fullstack Ecommerce application- https://harrietsbotanicals.co.ke/; </a>
+                    <a className="project-title" href="https://greenspoon.co.ke/" target="_blank" rel="noopener noreferrer">Fullstack Ecommerce application- https://greenspoon.co.ke/; </a>
+                    <a className="project-title" href="https://zucchini.co.ke/" target="_blank" rel="noopener noreferrer">Fullstack Ecommerce application- https://zucchini.co.ke/; </a>
+                        <a className="project-title" href="https://kentours.netlify.app" target="_blank" rel="noopener noreferrer">Hospitality Portal - kentours.netlify.app; </a>
                     <p className="project-desc">Developed various web and mobile applications for clients</p>
                   </div>
                   <div className="project-item">
